@@ -5,6 +5,8 @@
 /backend/bin/
 /backend/obj/
 /backend/*.db
+/backend/*.db-shm
+/backend/*.db-wal
 
 # Frontend artifacts
 /frontend/node_modules/

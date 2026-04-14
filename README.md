@@ -38,7 +38,7 @@ A complete expense tracker application with a **.NET 8 backend** and a **React f
    dotnet run
    ```
 4. Default API base URL:
-   - `http://localhost:5000`
+   - `http://localhost:5083`
 
 ## Frontend Setup
 
@@ -65,7 +65,7 @@ A complete expense tracker application with a **.NET 8 backend** and a **React f
 ## Notes
 
 - The backend stores data in `backend/expenses.db`
-- The frontend expects the backend at `http://localhost:5000`
+- The frontend expects the backend at `http://localhost:5083`
 - The JWT secret and issuer settings are configured in `backend/appsettings.json`
 
 ## Development Tips
